@@ -48,16 +48,15 @@ pip install pyaudio
 5️⃣ Running the Project
 Clone the repository
 
-git clone https://github.com/Mazid2003/Voice-Assistant.git
-cd Voice-Assistant
+git clone https://github.com/Mazid2003/Voice-assistant-using-python.git
+
+cd (directory of your project)
+
 Install dependencies
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
+
 Run the assistant
-bash
-Copy
-Edit
+
 python main.py
 
