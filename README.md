@@ -98,3 +98,7 @@ Convert it into a Mobile App using Kivy or Flutter.
 **🎬 Final Thoughts**
 
 This Voice Assistant is a smart system that allows users to control their laptop hands-free. With future improvements, it can become more interactive and even be deployed as a mobile app. 🚀
+
+**📜 License**
+
+This project is open-source under the MIT License.
