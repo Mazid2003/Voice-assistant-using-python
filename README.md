@@ -75,7 +75,8 @@ A specific voice command (e.g., "exit assistant") will stop the assistant.
 
 Clone the repository
 
-git clone https://github.com/Mazid2003/Voice-Assistant.git
+git clone https://github.com/Mazid2003/Voice-assistant-using-python.git
+
 cd Voice-Assistant
 
 Install dependencies
@@ -86,7 +87,7 @@ Run the assistant
 
 python main.py
 
-🎯 Next Steps & Improvements
+**🎯 Next Steps & Improvements**
 
 Enhance NLP processing to better understand user commands.
 
@@ -94,6 +95,6 @@ Add a GUI interface for better user experience.
 
 Convert it into a Mobile App using Kivy or Flutter.
 
-🎬 Final Thoughts
+**🎬 Final Thoughts**
 
 This Voice Assistant is a smart system that allows users to control their laptop hands-free. With future improvements, it can become more interactive and even be deployed as a mobile app. 🚀
