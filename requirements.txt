@@ -1,1 +1,63 @@
+Requirements for the Voice Assistant Project
+
+To run the Voice Assistant, you need the following hardware and software dependencies:
+
+1️⃣ Hardware Requirements
+
+✅ Operating System: Windows, macOS, or Linux
+✅ Processor: Minimum Intel i3 / AMD Ryzen 3 (Recommended: i5 or higher)
+✅ RAM: At least 4GB RAM (Recommended: 8GB)
+✅ Microphone: A built-in or external microphone for voice input
+✅ Speakers: Required for text-to-speech output
+
+2️⃣ Software Requirements
+
+✅ Python (>=3.7) – Programming language
+✅ pip – Package manager for installing dependencies
+
+3️⃣ Python Library Dependencies
+
+You can install all required libraries using:
+
+pip install -r requirements.txt
+
+Here’s what needs to be in requirements.txt:
+
+
+speechrecognition  # For recognizing speech from microphone
+pyttsx3            # For text-to-speech conversion
+pyaudio            # To access microphone
+pyautogui          # To control system applications
+nltk               # (Optional) For natural language processing
+openai             # (Optional) For AI-powered responses
+
+4️⃣ Additional Setup Instructions
+
+🔹 Install PortAudio (For PyAudio) If you face issues with pyaudio, install it manually:
+
+Windows:
+
+pip install pipwin
+pipwin install pyaudio
+
+Linux/macOS:
+
+sudo apt-get install portaudio19-dev
+pip install pyaudio
+
+5️⃣ Running the Project
+Clone the repository
+
+git clone https://github.com/Mazid2003/Voice-Assistant.git
+cd Voice-Assistant
+Install dependencies
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Run the assistant
+bash
+Copy
+Edit
+python main.py
 
