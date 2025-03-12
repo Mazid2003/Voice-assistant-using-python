@@ -1,6 +1,7 @@
 # Voice-assistant-using-python
 
-**Note:This is only a basic version you can operate more applications on your laptop through this project**
+**Note:This is only a basic version, but you can operate more applications on your laptop through this project.**
+
 **📌 Project Overview**
 
 This project is a voice-controlled assistant that runs on a laptop and performs various tasks based on user voice commands. The assistant can:
