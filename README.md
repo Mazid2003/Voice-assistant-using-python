@@ -1,4 +1,4 @@
-# Voice-assistant-using-python
+# Voice-assistant-using-python 🔊📢
 
 **Note: This is only a basic version, but you can operate more applications on your laptop through this project.**
 
