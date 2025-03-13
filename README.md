@@ -87,7 +87,7 @@ pip install -r requirements.txt
 
 Run the assistant
 
-python main.py
+python voice.py
 
 **🎯 Next Steps & Improvements**
 
